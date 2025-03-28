@@ -1,10 +1,10 @@
 # Reunion-Assignment
 
-This repository contains the implementation of project assigned as [Frontend Developer Assignment](https://reunion-one.notion.site/Full-Stack-Assignment-Reunion-d8eb44c39e5e46b6b2b9a1e0db07a5de) from Reunion. Project is made using **React + TailwindCss + Flowbite + DaisyUI** at frontend and Node js Express backend server to control all endpoints with **MongoDB** used as database to store the data related to users and their properties.
+This repository contains the implementation of project assigned as [Frontend Developer Assignment](https://reunion-one.notion.site/Front-End-Assignment-Fulltime-ea05a75c6cb54446991175ce940ac578) from Reunion. Project is made using **React + TailwindCss + Flowbite + DaisyUI** at frontend and Node js Express backend server to control all endpoints with **MongoDB** used as database to store the data related to users and their properties.
 
 ### Deployed Links
 
-Website - [reunion-housing-assignment.vercel.app](reunion-housing-assignment.vercel.app).
+Website - [https://reunion-housing-assignment.vercel.app](https://reunion-housing-assignment.vercel.app).
 
 ### Steps to setup this project
 
